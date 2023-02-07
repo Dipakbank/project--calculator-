@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0px 3px;
+    /* border: 3px solid black; */
+    border-radius: 9px;
+    /* color: #000; */
+    /* colour */
+}
+.row
+{
+    padding: 12px 0px;
+}
+.row input
+{
+    padding: 014px 5px;
+    margin: 0px;
+    border-radius: 9px;
+    font-size: 18px;
+    width: 280px;
+}
